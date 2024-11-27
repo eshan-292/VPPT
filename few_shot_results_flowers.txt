@@ -1,0 +1,6 @@
+Few-Shot Settings Results:
+Shots, Dataset, Model, Test Accuracy
+1, Oxford Flowers, VPPT, 81.27
+1, Oxford Flowers, VPT, 75.00
+4, Oxford Flowers, VPPT, 95.98
+4, Oxford Flowers, VPT, 94.31
